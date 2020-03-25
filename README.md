@@ -1,5 +1,5 @@
 # Miscellaneous
-Miscellaneous projects from courses I've taken. Mind that these projects are not as "polished" as those in other repositories.
+Miscellaneous projects from courses I've taken. Mind that these projects are not as "polished" as those in other repositories. Sadly I have no Python projects uploaded, as those have either been done for companies or in larger groups, where I could hardly claim credit.
 
 ## String_functions - MIPS/ASM - Autumn 2018
 
