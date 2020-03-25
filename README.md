@@ -7,5 +7,5 @@ Some rudimentary string manipulations and additions for MIPS architecture, I hav
 
 ## split_the_bill - C++ - Summer 2018
 
-Project for splitting the bill. Reads a text file when started and new transactions can also be input. Can show transaction history, settle the bill and more. Sadly, only in Swedish.
+Program for splitting the bill. Reads a text file when started and new transactions can also be input. Can show transaction history, settle the bill and more. Sadly, only in Swedish.
 
