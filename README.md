@@ -1,5 +1,5 @@
 # Miscellaneous
-Miscellaneous projects from courses I've taken. Mind that these projects are not as "polished" as those in other repositories. Sadly I have no Python projects uploaded, as those have either been done for companies or in larger groups, where I could hardly claim credit.
+Miscellaneous projects from courses I've taken. Mind that these projects are not as "polished" as those in other repositories. Sadly I have no Python projects uploaded, as those have either been done for companies or in larger groups, where I could hardly claim sole credit.
 
 ## String_functions - MIPS32/ASM - Autumn 2018
 
@@ -8,6 +8,4 @@ Some rudimentary string manipulations and additions for MIPS architecture, I hav
 ## split_the_bill - C++ - Summer 2018
 
 Project for splitting the bill. Reads a text file when started and new transactions can also be input. Can show transaction history, settle the bill and more. Sadly, only in Swedish.
-
-
 
