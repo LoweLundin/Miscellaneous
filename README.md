@@ -3,7 +3,7 @@ Miscellaneous projects from courses I've taken. Mind that these projects are not
 
 ## String_functions - MIPS32/ASM - Autumn 2018
 
-Some rudimentary string manipulations and additions for MIPS architecture, I have executed them on the self-contained simulator QtSpim, that runs MIPS32 programs. As low-level as it gets.
+Some rudimentary, low-level, string manipulations and additions for MIPS architecture, I have executed them on the self-contained simulator QtSpim, that runs MIPS32 programs.
 
 ## split_the_bill - C++ - Summer 2018
 
