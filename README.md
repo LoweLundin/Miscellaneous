@@ -9,3 +9,6 @@ Some rudimentary, low-level, string manipulations and additions for MIPS archite
 
 Program for splitting the bill. Reads a text file when started and new transactions can also be input. Can show transaction history, settle the bill and more. Sadly, only in Swedish.
 
+## Painter - Python - Spring 2019
+
+Painter automata which follows a set of given rules. Colours, rules, timesteps and more can be costumised giving potentially infinite possibilities of outcomes.
