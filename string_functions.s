@@ -1,8 +1,8 @@
 ##############################################################################
 #
-#  KURS: 1DT038 2018.  Computer Architecture
+#  KURS: 1DT038 2018.  Computer Architecture I
 #	
-# DATUM: 13/9 - 2018
+#  DATUM: 13/9 - 2018
 #
 #  NAMN: Lowe Lundin
 #
